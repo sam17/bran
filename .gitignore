@@ -130,5 +130,6 @@ dmypy.json
 
 # Mac Files
 **/.DS_store
+
 ## Image files
 ravened/**/images
