@@ -133,3 +133,4 @@ dmypy.json
 
 ## Image files
 ravened/**/images
+**/*.mpg
